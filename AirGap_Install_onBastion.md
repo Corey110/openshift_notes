@@ -1,8 +1,10 @@
 [toc]
 
-# OpenShift 4.5.20离线安装1
+# OpenShift 4.5.20离线安装笔记
 
 ## 安装环境
+
+- Client Center VMware vSphere，Beijing Folder Liujie
 
 
 - 堡垒机( Bastion) ：可以联外网，作为DNS服务器, Web服务器, NFS服务器, LB服务器, 注册服务器等
